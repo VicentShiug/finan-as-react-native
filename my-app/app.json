@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "meuApp",
-    "slug": "meuApp",
+    "name": "my-app",
+    "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,16 +21,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.vicentshiug.meuApp"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "46d08332-ef82-4c05-811f-828250eae12d"
-      }
     }
   }
 }
